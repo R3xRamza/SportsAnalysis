@@ -1,0 +1,2 @@
+
+DATAPATH = "statsPage.json"
